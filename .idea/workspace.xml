@@ -1,7 +1,120 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ca6d6bc4-2322-4264-a4ca-b9c714b42eb5" name="Default Changelist" comment="" />
+    <list default="true" id="ca6d6bc4-2322-4264-a4ca-b9c714b42eb5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/WebstormProjects.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/box-img-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/box-img-sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/bs-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/build/contracts/Migrations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/build/contracts/petShop.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/contracts/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/contracts/Adoption.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/contracts/Migrations.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/migrations/1_initial_migration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/migrations/2_deploy_contracts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/css/bootstrap.min.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/fonts/glyphicons-halflings-regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/fonts/glyphicons-halflings-regular.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/fonts/glyphicons-halflings-regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/fonts/glyphicons-halflings-regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/fonts/glyphicons-halflings-regular.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/images/boxer.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/images/french-bulldog.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/images/golden-retriever.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/images/scottish-terrier.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/js/truffle-contract.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/js/web3.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/src/pets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/test/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/test/TestAdoption.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/petShop/truffle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/.idea/web3Demo.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/build/contracts/ConvertLib.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/build/contracts/MetaCoin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/build/contracts/Migrations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/build/contracts/MyToken.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/build/contracts/Score.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/build/contracts/Utils.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/contracts/.placeholder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/contracts/Migrations.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/contracts/Score.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/contracts/bak/ConvertLib.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/contracts/bak/MetaCoin.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/migrations/1_initial_migration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/migrations/2_deploy_contracts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/test/.placeholder" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/test/TestMetacoin.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/test/metacoin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/truffle-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web3Demo/truffle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/.idea/webpack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/bank.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/customer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/merchant.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/scripts/Utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/scripts/bank.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/scripts/customer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/scripts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/scripts/merchant.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/styles/app.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/app/styles/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/box-img-lg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/box-img-sm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/build/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/build/app.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/build/contracts/ConvertLib.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/build/contracts/MetaCoin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/build/contracts/Migrations.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/build/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/contracts/Greeter.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/contracts/Migrations.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/contracts/bak/ConvertLib.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/contracts/bak/MetaCoin.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/contracts/score.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/migrations/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/migrations/1_initial_migration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/migrations/2_deploy_contracts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/test/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/test/TestMetacoin.sol" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/test/metacoin.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/truffle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack/webpack.config.js" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,8 +132,9 @@
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.5" value="7" />
           <entry key="project.open.time.6" value="2" />
+          <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="11" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -31,7 +145,7 @@
           <entry key="eslintrc" value="1" />
           <entry key="gitignore" value="1" />
           <entry key="html" value="19" />
-          <entry key="js" value="64" />
+          <entry key="js" value="65" />
           <entry key="json" value="14" />
           <entry key="rnc" value="1" />
           <entry key="sol" value="17" />
@@ -42,7 +156,7 @@
           <entry key="CSS" value="5" />
           <entry key="HTML" value="19" />
           <entry key="JSON" value="16" />
-          <entry key="JavaScript" value="64" />
+          <entry key="JavaScript" value="65" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="RNG Compact" value="1" />
           <entry key="Solidity file" value="17" />
@@ -55,7 +169,7 @@
           <entry key="html" value="1576" />
           <entry key="js" value="10186" />
           <entry key="sol" value="665" />
-          <entry key="txt" value="12" />
+          <entry key="txt" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -63,57 +177,24 @@
           <entry key="CSS" value="186" />
           <entry key="HTML" value="1576" />
           <entry key="JavaScript" value="10186" />
-          <entry key="PLAIN_TEXT" value="16" />
+          <entry key="PLAIN_TEXT" value="22" />
           <entry key="Solidity file" value="665" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="10" />
+          <entry key="ESLintLanguageService" value="11" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/begin.sol">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
               <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/testBool.sol">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/mathLib.sol">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/testAbi.sol">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/testInt.sol">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Ethereum-Score-Hella-/app/javascripts/app2.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
         </entry>
@@ -166,7 +247,7 @@
   </component>
   <component name="Git.Settings">
     <option name="UPDATE_TYPE" value="MERGE" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Ethereum-Score-Hella-" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/TinyXiong/leanSolidity" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -291,29 +372,6 @@
               <item name="WebstormProjects" type="b2602c69:ProjectViewProjectNode" />
               <item name="WebstormProjects" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="WebstormProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebstormProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Ethereum-Score-Hella-" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebstormProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebstormProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Ethereum-Score-Hella-" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebstormProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebstormProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="Ethereum-Score-Hella-" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="javascripts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="WebstormProjects" type="b2602c69:ProjectViewProjectNode" />
-              <item name="WebstormProjects" type="462c0819:PsiDirectoryNode" />
-              <item name="web3Demo" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -377,6 +435,7 @@
       <workItem from="1542244914071" duration="963000" />
       <workItem from="1542246349135" duration="1263000" />
       <workItem from="1544689598173" duration="1936000" />
+      <workItem from="1547773640562" duration="848000" />
     </task>
     <task id="LOCAL-00001" summary="template">
       <created>1540284675186</created>
@@ -490,11 +549,18 @@
       <option name="project" value="LOCAL" />
       <updated>1544776330585</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <created>1547774465829</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1547774465829</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="106675000" />
+    <option name="totallyTimeSpent" value="107523000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="886" extended-state="6" />
@@ -526,18 +592,13 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <MESSAGE value="template" />
     <MESSAGE value="Vote" />
-    <option name="LAST_COMMIT_MESSAGE" value="Vote" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SampleScore/app/javascripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="30" column="22" selection-start-line="30" selection-start-column="22" selection-end-line="30" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SampleScore/app/javascripts/bank.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -802,12 +863,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/begin.sol">
+    <entry file="file://$PROJECT_DIR$/SampleScore/webpack.config.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Ethereum-Score-Hella-/app/javascripts/app2.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="252">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/testInt.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/testAbi.sol">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/mathLib.sol">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/testBool.sol">
       <provider selected="true" editor-type-id="text-editor">
@@ -816,19 +889,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/mathLib.sol">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/testAbi.sol">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/testInt.sol">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Ethereum-Score-Hella-/app/javascripts/app2.js">
+    <entry file="file://$PROJECT_DIR$/TinyXiong/leanSolidity/begin.sol">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="180">
+          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
         </state>
       </provider>
     </entry>
