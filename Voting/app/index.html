@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>投票实例</title>
+    <!--link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'-->
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+    <script src="./app.js"></script>
+</head>
+<body>
+<div >
+
+
+    <h1>投票</h1>
+    <div id="info">
+        <p id="status">Status</p>
+    </div>
+
+    <br/>
+    <br/>
+    <h2>提案注册</h2></h2>
+    <div class="block">
+        <h3>提案</h3>
+        <label for="customerAddress">提案名称</label><input type="text" id="customerAddress"
+                                                             placeholder="e.g., abcd"/>
+        <br/><label for="customerPassword">提案ID</label><input type="text" id="customerPassword"
+                                                            placeholder="e.g., 1,2,3"/>
+        <button onclick="App.newCustomer()">注册提案</button>
+    </div>
+
+    <h2>投票</h2></h2>
+    <div class="block">
+        <h3>投票人</h3>
+        <label for="customerLoginAddr">地址</label><input type="text" id="customerLoginAddr"
+                                                                       placeholder="e.g., 0x93e66d9baea28c17d9fc393b53e3fbdd76899dae">
+        <br><label for="customerLoginPwd">提案ID</label><input type="text" id="customerLoginPwd"
+                                                            placeholder="e.g., * 1,2,3">
+        <button id="customerLogin" onclick="App.customerLogin()">确认投票</button>
+    </div>
+
+    <h2>投票结果</h2>
+    <div class="block">
+        <h3>商家注册</h3>
+        <!-- 商户注册-->
+        <label for="merchantAddress">提案ID</label><input type="text" id="merchantAddress"
+                                                                     placeholder="e.g., 1，2，3">
+        <button id="newMerchant" onclick="App.newMerchant()">结果查询</button>
+        <br><label for="merchantPassword">结果</label><input type="text" id="merchantPassword" placeholder="e.g., ******">
+        <br>
+
+
+    </div>
+
+    <!--div class="block">
+        <h3>商家登录</h3>
+        <label for="merchantLoginAddr">商户地址</label><input type="text" id="merchantLoginAddr"
+                                                                       placeholder="e.g., 0x93e66d9baea28c17d9fc393b53e3fbdd76899dae">
+        <br><label for="merchantLoginPwd">密码</label><input type="text" id="merchantLoginPwd" placeholder="e.g., ******">
+        <br>
+        <button id="merchantLogin" onclick="App.merchantLogin()">商户登录</button>
+    </div>
+
+
+    <h2>银行端</h2>
+    <div class="block">
+        <h3>银行管理员登录</h3>
+        <label for="bankLoginAddr">银行地址</label><input type="text" id="bankLoginAddr"
+                                                                   placeholder="e.g., 0x93e66d9baea28c17d9fc393b53e3fbdd76899dae">
+        <br><label for="bankLoginPwd">密码</label><input type="text" id="bankLoginPwd" placeholder="e.g., ******">
+        <br>
+        <button id="bankLogin" onclick="App.bankLogin()">银行登录</button>
+    </div-->
+
+
+    <br/>
+    <h2>测试信息</h2>
+    <div>
+        <button onclick="App.allAccounts()">Account(console)</button>
+        <br><br>
+    </div>
+    <div>
+        <p>Console</p>
+        <div id="console">
+        </div>
+    </div>
+</div>
+</body>
+</html>
