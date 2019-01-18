@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Score</title>
+    <!--link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'-->
+    <script src="./app.js"></script>
+    <link rel="stylesheet" type="text/css" href="./stylesheets/app.css">
+</head>
+<body>
+<script>
+    function VoteDate() {
+        document.getElementById('displayDate').innerHTML=Date()
+    }
+</script>
+<div class="navbar">
+    <a href="index.html">Index</a>
+    <a href="bank.html">Bank</a>
+    <a href="customer.html">Customer</a>
+    <a href="merchant.html">Merchant</a>
+    <a href="test.html">Test</a>
+    <a href="vote.html">VoteIndex</a>
+</div>
+<br>
+<script>
+    function displayDate () {
+      document.getElementById('DateDemo').innerHTML=Date()
+    }
+</script>
+<h1>Voting System</h1>
+<div>
+    <div id="DateDemo">
+        <button class="block" type="button" onclick="displayDate()"> +++ Date +++ </button>
+    </div>
+    <div>
+        <button class="block" type="button" onclick="displayDate()">投票状态查询（开启/关闭）</button>
+    </div>
+</div>
+
+<div>
+    <div id="info">
+        <p id="status">Status</p>
+    </div>
+    <h2>投票</h2>
+    <div class="block">
+        <!--h3>投票</h3-->
+        <label for="VoterAddress">投票者地址</label><input type="text" id="VoterAddress"
+                                                             placeholder="e.g., 0x93e66d9baea28c17d9fc393b53e3fbdd76899dae"/>
+        <br/><label for="VoteToTopic">投票To Index</label><input type="text" id="VoteToTopic"
+                                                            placeholder="e.g., 1,2,3"/>
+        <button onclick="App.newCustomer()">提交投票</button>
+    </div>
+    <h2>当前方案列表</h2>
+    <div class="block">
+
+        <!--label for="customerLoginAddr">Voter地址</label><input type="text" id="customerLoginAddr"
+                                                                       placeholder="e.g., 0x93e66d9baea28c17d9fc393b53e3fbdd76899dae">
+        <br><label for="customerLoginPwd">密码</label><input type="text" id="customerLoginPwd"
+                                                            placeholder="e.g., ******"-->
+        <button id="getTopicList" onclick="App.getTopicList()">点击获取当前方案列表</button>
+        <div id="topicList"></div>
+        <div id="displayDate"></div>
+
+    </div>
+
+    <!--h2>方案提交</h2>
+    <div class="block">
+        <h3>方案注册</h3>
+        <label for="merchantAddress">提交者地址</label><input type="text" id="merchantAddress"
+                                                                     placeholder="e.g., 0x93e66d9baea28c17d9fc393b53e3fbdd76899dae">
+        <br><label for="merchantPassword">方案名</label><input type="text" id="merchantPassword" placeholder="e.g., ******">
+        <br>
+        <button id="newMerchant" onclick="App.newMerchant()">方案注册</button>
+
+    </div-->
+
+    <!--div class="block">
+        <h3>商家登录</h3>
+        <label for="merchantLoginAddr">商户地址</label><input type="text" id="merchantLoginAddr"
+                                                                       placeholder="e.g., 0x93e66d9baea28c17d9fc393b53e3fbdd76899dae">
+        <br><label for="merchantLoginPwd">密码</label><input type="text" id="merchantLoginPwd" placeholder="e.g., ******">
+        <br>
+        <button id="merchantLogin" onclick="App.merchantLogin()">商户登录</button>
+    </div-->
+
+    <h2>投票结果</h2>
+    <div class="block">
+        <!--h3>银行管理员登录</h3-->
+        <label for="bankLoginAddr">Topic A</label><div id="voteResultOfA"></div>
+        <br><label for="bankLoginPwd">Topic B</label><div id="voteResultOfB"></div>
+        <br><label for="bankLoginPwd">Topic C</label><div id="voteResultOfC"></div>
+        <button id="bankLogin" onclick="App.bankLogin()">Click For RESULT VIEW</button>
+    </div>
+    <h2>测试信息</h2>
+    <div>
+        <button type="button" onclick="App.allAccounts()">Account(console)</button>
+    </div>
+    <div>
+        <p>Console</p>
+        <div id="console">
+        </div>
+    </div>
+</div>
+</body>
+</html>
